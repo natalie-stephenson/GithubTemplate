@@ -1,0 +1,7 @@
+pre-commit
+pytest
+pytest-env
+coverage
+mypy
+flake8
+-r requirements.txt
